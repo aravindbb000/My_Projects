@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	background-image: url("backgd.png");
+	background-size: 100%;
+	background-repeat: repeat;
+}
+h1 {
+	font-weight: bold;
+	color: goldenrod;
+	text-align: center;
+}
+p {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+button{
+	font-size: 20px;
+	width: 200px;
+	text-align: center;
+	color: white;
+	background: goldenrod;
+	margin-bottom: 10px;
+}
+#msg-el{
+	color: red;
+}
